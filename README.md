@@ -1,1 +1,1 @@
-#A Collection of Various Computer Netwrok protocols implemented through C++ & pythin coding
+#A Collection of Various Computer Network protocols implemented through C++ & python Programs.
